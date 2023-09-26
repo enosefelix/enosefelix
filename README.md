@@ -8,9 +8,9 @@ I'm a Software Engineer and currently an Alumni of [Altschool Africa](https://al
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently an Alumni at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript, Nodejs, and Mongo, Typescript, Nestjs, and Postgres.
-- 😊 I’m looking for help with open source projects, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Backend Engineer (Intern or Junior level).
+- 🌱 I’m currently proficient JavaScript, Nodejs, and Mongo, Typescript, Nestjs, and Postgres.
+- 😊 I’m looking for help with open source projects, and entry-level opportunities.
+- 💼 Job interests: Software Engineer, Backend Engineer (Junior level).
 - 📫 You can [view my resume](https://docs.google.com/document/d/1aOm_ETxm93N8KW4caL9VBVuRCU6KFWoM4J13pmxNDa8/edit) and contact me by emailing enosezelig@gmail.com.
 
 ---
