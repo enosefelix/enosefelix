@@ -11,7 +11,7 @@ I'm a Software Engineer and currently an Alumni of [Altschool Africa](https://al
 - 🌱 I’m currently proficient JavaScript, Nodejs, and Mongo, Typescript, Nestjs, and Postgres.
 - 😊 I’m looking for help with open source projects, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Backend Engineer (Junior level).
-- 📫 You can [view my resume]([https://docs.google.com/document/d/1aOm_ETxm93N8KW4caL9VBVuRCU6KFWoM4J13pmxNDa8/edit](https://drive.google.com/file/d/1seT02ieF4RwM4qoOjLP-UE9gvxe-PvwM/view)) and contact me by emailing enosezelig@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1seT02ieF4RwM4qoOjLP-UE9gvxe-PvwM/view) and contact me by emailing enosezelig@gmail.com.
 
 ---
 
