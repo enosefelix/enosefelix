@@ -37,5 +37,5 @@ I'm a Software Engineer and currently an Alumni of [Altschool Africa](https://al
 
 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=enosefelix&show_icons=true&include_all_commits=true&hide_border=true" alt="Enose's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enosefelix&langs_count=8&layout=compact&hide_border=true" alt="Enose's GitHub stats" /> |
+| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enosefelix)](https://github.com/enosefelix/github-readme-stats) | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enosefelix&langs_count=8&layout=compact&hide_border=true" alt="Enose's GitHub stats" /> |
 | ------------- | ------------- |
